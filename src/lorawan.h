@@ -3,6 +3,6 @@
 
 #include "arduino-rfm/lorawan-arduino-rfm.h"
 
-extern LoRaWANClass lora;
+extern LoRaWANClas lora;
 
 #endif
